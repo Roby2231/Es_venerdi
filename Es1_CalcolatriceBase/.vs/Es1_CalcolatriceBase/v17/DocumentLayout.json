@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\Desktop\\Esercizi_venerdi\\Es1_CalcolatriceBase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E61FDB57-1080-491C-9047-74644FC7DB7C}|Es1_CalcolatriceBase\\Es1_CalcolatriceBase.csproj|c:\\users\\utente\\desktop\\esercizi_venerdi\\es1_calcolatricebase\\es1_calcolatricebase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E61FDB57-1080-491C-9047-74644FC7DB7C}|Es1_CalcolatriceBase\\Es1_CalcolatriceBase.csproj|solutionrelative:es1_calcolatricebase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Esercizi_venerdi\\Es1_CalcolatriceBase\\Es1_CalcolatriceBase\\Program.cs",
+              "RelativeDocumentMoniker": "Es1_CalcolatriceBase\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Esercizi_venerdi\\Es1_CalcolatriceBase\\Es1_CalcolatriceBase\\Program.cs",
+              "RelativeToolTip": "Es1_CalcolatriceBase\\Program.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAF4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:15:33.895Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

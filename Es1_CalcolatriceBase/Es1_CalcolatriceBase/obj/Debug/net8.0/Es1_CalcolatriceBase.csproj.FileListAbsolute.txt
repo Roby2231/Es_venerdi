@@ -1,0 +1,14 @@
+C:\Users\Utente\Desktop\Esercizi_venerdi\Es1_CalcolatriceBase\Es1_CalcolatriceBase\obj\Debug\net8.0\Es1_CalcolatriceBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\Esercizi_venerdi\Es1_CalcolatriceBase\Es1_CalcolatriceBase\obj\Debug\net8.0\Es1_CalcolatriceBase.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\Esercizi_venerdi\Es1_CalcolatriceBase\Es1_CalcolatriceBase\obj\Debug\net8.0\Es1_CalcolatriceBase.AssemblyInfo.cs
+C:\Users\Utente\Desktop\Esercizi_venerdi\Es1_CalcolatriceBase\Es1_CalcolatriceBase\obj\Debug\net8.0\Es1_CalcolatriceBase.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Esercizi_venerdi\Es1_CalcolatriceBase\Es1_CalcolatriceBase\bin\Debug\net8.0\Es1_CalcolatriceBase.exe
+C:\Users\Utente\Desktop\Esercizi_venerdi\Es1_CalcolatriceBase\Es1_CalcolatriceBase\bin\Debug\net8.0\Es1_CalcolatriceBase.deps.json
+C:\Users\Utente\Desktop\Esercizi_venerdi\Es1_CalcolatriceBase\Es1_CalcolatriceBase\bin\Debug\net8.0\Es1_CalcolatriceBase.runtimeconfig.json
+C:\Users\Utente\Desktop\Esercizi_venerdi\Es1_CalcolatriceBase\Es1_CalcolatriceBase\bin\Debug\net8.0\Es1_CalcolatriceBase.dll
+C:\Users\Utente\Desktop\Esercizi_venerdi\Es1_CalcolatriceBase\Es1_CalcolatriceBase\bin\Debug\net8.0\Es1_CalcolatriceBase.pdb
+C:\Users\Utente\Desktop\Esercizi_venerdi\Es1_CalcolatriceBase\Es1_CalcolatriceBase\obj\Debug\net8.0\Es1_CalcolatriceBase.dll
+C:\Users\Utente\Desktop\Esercizi_venerdi\Es1_CalcolatriceBase\Es1_CalcolatriceBase\obj\Debug\net8.0\refint\Es1_CalcolatriceBase.dll
+C:\Users\Utente\Desktop\Esercizi_venerdi\Es1_CalcolatriceBase\Es1_CalcolatriceBase\obj\Debug\net8.0\Es1_CalcolatriceBase.pdb
+C:\Users\Utente\Desktop\Esercizi_venerdi\Es1_CalcolatriceBase\Es1_CalcolatriceBase\obj\Debug\net8.0\Es1_CalcolatriceBase.genruntimeconfig.cache
+C:\Users\Utente\Desktop\Esercizi_venerdi\Es1_CalcolatriceBase\Es1_CalcolatriceBase\obj\Debug\net8.0\ref\Es1_CalcolatriceBase.dll

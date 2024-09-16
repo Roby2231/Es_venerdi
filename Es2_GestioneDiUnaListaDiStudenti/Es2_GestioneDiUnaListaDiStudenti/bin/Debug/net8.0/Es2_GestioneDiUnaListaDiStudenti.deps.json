@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Es2_GestioneDiUnaListaDiStudenti/1.0.0": {
+        "runtime": {
+          "Es2_GestioneDiUnaListaDiStudenti.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Es2_GestioneDiUnaListaDiStudenti/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

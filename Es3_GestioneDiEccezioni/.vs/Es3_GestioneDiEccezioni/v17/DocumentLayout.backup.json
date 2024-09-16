@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\Desktop\\Esercizi_venerdi\\Es3_GestioneDiEccezioni\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B039042-01E5-46BE-84BB-BDC9136580E4}|Es3_GestioneDiEccezioni\\Es3_GestioneDiEccezioni.csproj|c:\\users\\utente\\desktop\\esercizi_venerdi\\es3_gestionedieccezioni\\es3_gestionedieccezioni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B039042-01E5-46BE-84BB-BDC9136580E4}|Es3_GestioneDiEccezioni\\Es3_GestioneDiEccezioni.csproj|solutionrelative:es3_gestionedieccezioni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Esercizi_venerdi\\Es3_GestioneDiEccezioni\\Es3_GestioneDiEccezioni\\Program.cs",
+              "RelativeDocumentMoniker": "Es3_GestioneDiEccezioni\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Esercizi_venerdi\\Es3_GestioneDiEccezioni\\Es3_GestioneDiEccezioni\\Program.cs",
+              "RelativeToolTip": "Es3_GestioneDiEccezioni\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:01:13.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

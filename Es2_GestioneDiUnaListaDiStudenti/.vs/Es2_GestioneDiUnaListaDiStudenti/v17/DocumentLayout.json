@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\Desktop\\Esercizi_venerdi\\Es2_GestioneDiUnaListaDiStudenti\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{015BAA9A-1A2A-4C0F-80DC-AE0D20C25C2B}|Es2_GestioneDiUnaListaDiStudenti\\Es2_GestioneDiUnaListaDiStudenti.csproj|c:\\users\\utente\\desktop\\esercizi_venerdi\\es2_gestionediunalistadistudenti\\es2_gestionediunalistadistudenti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015BAA9A-1A2A-4C0F-80DC-AE0D20C25C2B}|Es2_GestioneDiUnaListaDiStudenti\\Es2_GestioneDiUnaListaDiStudenti.csproj|solutionrelative:es2_gestionediunalistadistudenti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{015BAA9A-1A2A-4C0F-80DC-AE0D20C25C2B}|Es2_GestioneDiUnaListaDiStudenti\\Es2_GestioneDiUnaListaDiStudenti.csproj|c:\\users\\utente\\desktop\\esercizi_venerdi\\es2_gestionediunalistadistudenti\\es2_gestionediunalistadistudenti\\classes\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015BAA9A-1A2A-4C0F-80DC-AE0D20C25C2B}|Es2_GestioneDiUnaListaDiStudenti\\Es2_GestioneDiUnaListaDiStudenti.csproj|solutionrelative:es2_gestionediunalistadistudenti\\classes\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Studente.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Esercizi_venerdi\\Es2_GestioneDiUnaListaDiStudenti\\Es2_GestioneDiUnaListaDiStudenti\\classes\\Studente.cs",
+              "RelativeDocumentMoniker": "Es2_GestioneDiUnaListaDiStudenti\\classes\\Studente.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Esercizi_venerdi\\Es2_GestioneDiUnaListaDiStudenti\\Es2_GestioneDiUnaListaDiStudenti\\classes\\Studente.cs",
+              "RelativeToolTip": "Es2_GestioneDiUnaListaDiStudenti\\classes\\Studente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T17:45:42.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Esercizi_venerdi\\Es2_GestioneDiUnaListaDiStudenti\\Es2_GestioneDiUnaListaDiStudenti\\Program.cs",
+              "RelativeDocumentMoniker": "Es2_GestioneDiUnaListaDiStudenti\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Esercizi_venerdi\\Es2_GestioneDiUnaListaDiStudenti\\Es2_GestioneDiUnaListaDiStudenti\\Program.cs",
+              "RelativeToolTip": "Es2_GestioneDiUnaListaDiStudenti\\Program.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAQwGoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T17:45:04.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
